@@ -1,0 +1,13 @@
+.resume-title {
+    font-size: 2rem;
+    color: #333;
+}
+
+.download-resume {
+    font-weight: 800;
+    color: #283618;
+}
+
+.download-resume:hover {
+    color: #606C38;
+}
